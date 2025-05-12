@@ -28,13 +28,13 @@ const options: SatoriOptions = {
   embedFont: true,
   fonts: [
     {
-      name: "Metropolis",
+      name: "Metropolis Regular",
       data: fontRegular,
       weight: 400,
       style: "normal",
     },
     {
-      name: "Metropolis",
+      name: "Metropolis Regular",
       data: fontBold,
       weight: 600,
       style: "normal",
